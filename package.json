@@ -1,0 +1,17 @@
+{
+  "name": "sem_3_2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "init": "^0.1.2",
+    "nodemon": "^3.1.14"
+  }
+}
